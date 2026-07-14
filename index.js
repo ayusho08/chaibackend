@@ -9,7 +9,7 @@ const ayush = {
   "skills": ["Python", "JSON", "Data Analysis"],
   "address": {
     "city": "Patna",
-    "country": "India"
+    
   },
   "manager": null
 };
