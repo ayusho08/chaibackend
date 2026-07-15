@@ -23,7 +23,7 @@ app.get('/twitter', (req, res) => {
 })
 app.get('/login', (req, res) => {
     res.send('ayush login kr bhai');
-})
+}) 
 
 app.get('/youtube', (req, res) => {
     res.send('<h1>ayush youtube</h1>');
